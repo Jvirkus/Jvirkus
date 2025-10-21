@@ -1,6 +1,3 @@
 Justin Virkus
 
-Go Bills
-Go Sabres
-Go Yankees
-Currently enrolled at UWG
+Anticipated graduation spring 2026. Well versed in java. Familiar with c#, html, css, js, python.
